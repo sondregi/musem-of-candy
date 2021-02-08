@@ -1,2 +1,1 @@
-# musem-of-candy
-# musem-of-candy
+# museum-of-candy
